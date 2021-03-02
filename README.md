@@ -12,3 +12,9 @@ it is a Version Control system that allow to user to restore the source code by 
 1. Working Directory: The actual files reside here.
 2. Index: The area used for staging
 3. Head: Points to the most recent commit
+
+- git clone
+- git status
+- git add
+- git commit -m 
+- git push origin master
